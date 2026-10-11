@@ -57,3 +57,4 @@ Contacts are stored in phonebook.dat.
 IMPORTANT:
 After creating or editing contacts, select S/s to save.
 When the application is launched again, saved contacts are loaded automatically.
+
