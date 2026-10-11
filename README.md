@@ -58,3 +58,16 @@ IMPORTANT:
 After creating or editing contacts, select S/s to save.
 When the application is launched again, saved contacts are loaded automatically.
 
+## Screenshots
+
+### Create Contact
+![Create Contact](screenshots/create.png)
+
+### Display Contacts
+![Display Contacts](screenshots/print.png)
+
+### Delete Contact
+![Delete Contact](screenshots/delete.png)
+
+### Exit Application
+![Exit Application](screenshots/quit.png)
